@@ -1,2 +1,2 @@
 # BRSP-Capstone-Project
-This repository contains my BRSP Capstone Project, focusing on end-to-end bioinformatics research. It covers data acquisition from NCBI, computational analysis using R, and result visualization to gain biological insights.
+This repository contains my BRSP Capstone Project, focusing on an end-to-end transcriptomics pipeline. It covers data acquisition from NCBI GEO, differential gene expression (DGE) analysis using R, and functional enrichment visualization to uncover biological insights.
